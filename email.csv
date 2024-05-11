@@ -1,0 +1,6 @@
+Login email,Identifier,First name,Last name,Trip count,Phone number,Total price,Passport copy,State ID copy
+rbooker@example.com,9012,Rachel,Booker,3,635-12-23,2432,yes, yes
+laura@example.com,2070,Laura,Grey,2,739-00-37,1500,yes,no
+craig@example.com,4081,Craig,Johnson,0,,0,no,no
+mary@example.com,9346,Mary,Jenkins,1,900-11-16,650,yes,yes
+jamie@example.com,5079,Jamie,Smith,2,,1980,yes,no
